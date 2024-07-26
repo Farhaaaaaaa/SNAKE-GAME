@@ -1,6 +1,20 @@
-# SNAKE-GAME
+# SnakesWithFARHA
 
-SnakesWithFARHA is a simple Snake game built using Python and Pygame. The objective is to navigate the snake to eat the food and grow in length, while avoiding collisions with the walls or the snake's own body.
+SnakesWithFARHA is a modern take on the classic Snake game, built using Python and Pygame. Navigate the snake to eat the food, grow in length, and avoid collisions. This project serves as a fun way to learn and demonstrate the basics of game development with Pygame.
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Running the Game](#running-the-game)
+- [How to Play](#how-to-play)
+- [Features](#features)
+- [Customization](#customization)
+- [Files](#files)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
@@ -11,35 +25,6 @@ SnakesWithFARHA is a simple Snake game built using Python and Pygame. The object
 
 You can install Pygame using pip:
 
-```s
+```sh
 pip install pygame
 ```
-## Running the Game
-Clone or download this repository.
-<BR>
-Navigate to the directory containing the game script.
-<BR>
-Run the script using Python
-
-##<h3>How to Play</h3>
-*Use the arrow keys to move the snake:
-<br>
-*Right arrow key: Move right
-<br>
-*Left arrow key: Move left
-<br>
-*Up arrow key: Move up
-<br>
-*Down arrow key: Move down
-<br>
-<i>Press the Space Bar at the welcome screen to start the game.
-<br>
-The objective is to eat the red food squares to gain points and grow the snake.
-<br>
-Avoid running into the walls or the snake's own body, as this will end the game.
-<br>
-Your score and the high score are displayed at the top of the game window.
-<br></i>
-
-
-
