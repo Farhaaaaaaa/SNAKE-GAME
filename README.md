@@ -34,7 +34,7 @@ pip install pygame
 1. Clone the repository:
 
 ```sh
-git clone (https://github.com/Farhaaaaaaa/SnakesWithFarha/edit/main/README.md)
+git clone https://github.com/Farhaaaaaaa/SnakesWithFarha.git
 cd SnakesWithFARHA
 ```
 
