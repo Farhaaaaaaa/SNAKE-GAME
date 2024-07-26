@@ -23,8 +23,19 @@ SnakesWithFARHA is a modern take on the classic Snake game, built using Python a
 - Python 3.x
 - Pygame library
 
+
 You can install Pygame using pip:
 
 ```sh
 pip install pygame
+```
+
+
+### Installation
+
+1. Clone the repository:
+
+```sh
+git clone https://github.com/yourusername/SnakesWithFARHA.git
+cd SnakesWithFARHA
 ```
