@@ -21,25 +21,25 @@ Navigate to the directory containing the game script.
 <BR>
 Run the script using Python
 
-<h3>How to Play</h3>
-Use the arrow keys to move the snake:
+##<h3>How to Play</h3>
+*Use the arrow keys to move the snake:
 <br>
-Right arrow key: Move right
+*Right arrow key: Move right
 <br>
-Left arrow key: Move left
+*Left arrow key: Move left
 <br>
-Up arrow key: Move up
+*Up arrow key: Move up
 <br>
-Down arrow key: Move down
+*Down arrow key: Move down
 <br>
-Press the Space Bar at the welcome screen to start the game.
+<i>Press the Space Bar at the welcome screen to start the game.
 <br>
 The objective is to eat the red food squares to gain points and grow the snake.
 <br>
 Avoid running into the walls or the snake's own body, as this will end the game.
 <br>
 Your score and the high score are displayed at the top of the game window.
-<br>
+<br></i>
 
 
 
